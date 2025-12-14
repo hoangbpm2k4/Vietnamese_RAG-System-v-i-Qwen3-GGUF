@@ -361,39 +361,4 @@ Trong đó:
 
 ---
 
-## 📝 License
-
-MIT License - free to use for learning and commercial projects
-
----
-
-## 👤 Author
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Qwen Team cho pre-trained model
-- llama.cpp contributors cho inference engine
-- Vietnamese NLP community
-
----
-
-## 📞 Contact & Collaboration
-
-Tôi đang tìm kiếm cơ hội để:
-- Làm việc với **RAG systems** ở production scale
-- Integrate **vector databases** (Qdrant, Weaviate)
-- Build **LangChain/LangGraph** applications
-- Deploy **AI microservices** với Docker/Kubernetes
-
-Liên hệ để discuss về LLM/RAG projects!
-
----
-
 **⭐ If you find this project helpful, please give it a star!**

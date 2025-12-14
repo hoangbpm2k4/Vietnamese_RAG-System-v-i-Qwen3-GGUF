@@ -61,6 +61,5 @@ pip install -r requirements.txt
 ## Questions?
 
 - Open an issue
-- Email: your.email@example.com
 
 **Happy coding!** 🚀
